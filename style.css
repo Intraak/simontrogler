@@ -15,4 +15,8 @@ div {
 #pozdrav {
 	background-color: limegreen;
 	text-align: center;
+	border-radius: 50px;
+	width: 30%;
+	height: auto;
+	margin: auto;
 }
